@@ -2,15 +2,13 @@
 layout: cv
 title: Grace Kazmierski's CV
 ---
-# Grace Kazmierski
+# GRACE KAZMIERSKI
 Student at BYU - Idaho
-
 <div id="webaddress">
 <a href="gkazmierski@byui.edu">gkazmierski@byui.edu</a>
-| <a href="https://github.com/gracekazmierski">My Github page</a>
 </div>
-# GRACE KAZMIERSKI
 
+## Contact
 **Phone:** (406) 696-8738  
 **Email:** [gracekazzy@gmail.com](mailto:gracekazzy@gmail.com)  
 **GitHub:** [github.com/gracekazmierski](https://github.com/gracekazmierski)  
