@@ -424,44 +424,37 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Grace Kazmierski’s CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Student at BYU - Idaho\n\ngkazmierski@byui.edu | My Github page"
   },
   {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Grace Kazmierski’s CV",
+    "section": "Summary",
+    "text": "Summary\nI am a highly motivated candidate with a strong background in customer service, strong writing skills, and a big desire to learn. Skilled in problem-solving and communication, I am a critical thinker with strong interpersonal skills and a proven track record of providing customer satisfaction. I have training as a leader in a team environment, as well as experience in individually focused roles."
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Grace Kazmierski’s CV",
+    "section": "Experience",
+    "text": "Experience\n\nProduction Baker\nBlack Dog Coffee House | Billings, MT\nMAY 2024 - PRESENT\n- Prepare a diverse range of baked goods to meet high production demands - Adapt to high-stakes environments to meet production quotas, quality standards, and health regulations - Manage time effectively to prioritize tasks, streamline efficiency, and respond promptly to changes in production - Produce large quantities of baked goods for wholesale distribution\n\n\nMarketing Intern\nUtah Tech University | St. George, UT\nDECEMBER 2023 – MAY 2024\n- Designed and created digital graphics to support marketing campaigns - Conducted research to inform and optimize marketing strategies - Collaborated on branding projects to align with Utah Tech’s identity and mission statement - Wrote engaging promotional content for new students and their families\n\n\nOpinion Editor\nSun News Daily | St. George, UT\nDECEMBER 2023 – MAY 2024\n- Edited, advised, and published articles weekly - Oversaw assignment creation and delegation of tasks to team members while providing feedback - Managed deadlines to ensure timely delivery - Maintained style, accuracy, coherence, and alignment with newsletter standards - Developed creative strategies to increase reader engagement on all platforms"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "title": "Grace Kazmierski’s CV",
+    "section": "Education",
+    "text": "Education\n\nComputer Science Student\nUtah Tech University / Brigham Young University - Idaho\nAUGUST 2023 - PRESENT\n- 4.0 GPA - Computing Society"
   },
   {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "objectID": "resume.html#skills-technologies",
+    "href": "resume.html#skills-technologies",
+    "title": "Grace Kazmierski’s CV",
+    "section": "Skills & Technologies",
+    "text": "Skills & Technologies\n\nPython\nProgramming with Classes in C#\nData Visualization\nWeb Development (CSS, HTML5, JavaScript)\nTechnical Teamwork\nMachine Learning\nSQL\nTableau\n\n\nSoft Skills\n\nLeadership\nAdaptability\nTime Management\nCollaboration\nCreativity\nAttention to Detail\nProblem-Solving\nCommunication"
   },
   {
     "objectID": "Machine_Learning/project5.html",
