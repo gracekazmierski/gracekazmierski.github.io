@@ -1,88 +1,79 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Grace Kazmierski's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Grace Kazmierski
+Student at BYU - Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="gkazmierski@byui.edu">gkazmierski@byui.edu</a>
+| <a href="https://github.com/gracekazmierski">My Github page</a>
 </div>
+# GRACE KAZMIERSKI
 
+**Phone:** (406) 696-8738  
+**Email:** [gracekazzy@gmail.com](mailto:gracekazzy@gmail.com)  
+**GitHub:** [github.com/gracekazmierski](https://github.com/gracekazmierski)  
+**LinkedIn:** [Grace Kazmierski](https://www.linkedin.com/in/gracekazmierski)
 
-## Currently
+## Summary
+I am a highly motivated candidate with a strong background in customer service, strong writing skills, and a big desire to learn. Skilled in problem-solving and communication, I am a critical thinker with strong interpersonal skills and a proven track record of providing customer satisfaction. I have training as a leader in a team environment, as well as experience in individually focused roles.
 
-Standing on the shoulders of giants
+## Experience
 
-### Specialized in
+### **Production Baker**  
+**Black Dog Coffee House | Billings, MT**  
+*MAY 2024 - PRESENT*  
+- Prepare a diverse range of baked goods to meet high production demands
+- Adapt to high-stakes environments to meet production quotas, quality standards, and health regulations
+- Manage time effectively to prioritize tasks, streamline efficiency, and respond promptly to changes in production
+- Produce large quantities of baked goods for wholesale distribution
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### **Marketing Intern**  
+**Utah Tech University | St. George, UT**  
+*DECEMBER 2023 – MAY 2024*  
+- Designed and created digital graphics to support marketing campaigns
+- Conducted research to inform and optimize marketing strategies
+- Collaborated on branding projects to align with Utah Tech’s identity and mission statement
+- Wrote engaging promotional content for new students and their families
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+### **Opinion Editor**  
+**Sun News Daily | St. George, UT**  
+*DECEMBER 2023 – MAY 2024*  
+- Edited, advised, and published articles weekly
+- Oversaw assignment creation and delegation of tasks to team members while providing feedback
+- Managed deadlines to ensure timely delivery
+- Maintained style, accuracy, coherence, and alignment with newsletter standards
+- Developed creative strategies to increase reader engagement on all platforms
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### **Computer Science Student**  
+**Utah Tech University / Brigham Young University - Idaho**  
+*AUGUST 2023 - PRESENT*  
+- 4.0 GPA
+- Computing Society
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+## Skills & Technologies
+- Python
+- Programming with Classes in C#
+- Data Visualization
+- Web Development (CSS, HTML5, JavaScript)
+- Technical Teamwork
+- Machine Learning
+- SQL
+- Tableau
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+### **Soft Skills**
+- Leadership
+- Adaptability
+- Time Management
+- Collaboration
+- Creativity
+- Attention to Detail
+- Problem-Solving
+- Communication
 
 <!-- ### Footer
 
